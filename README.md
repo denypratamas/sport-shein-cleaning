@@ -3,7 +3,7 @@
 This notebook/project cleans and preprocesses messy product data scraped from Shein (specifically the Sports & Outdoor category) as part of the Dirty E-Commerce dataset on Kaggle.
 
 ## 📂 Source:
-- ['Dirty E-Commerce Data [80,000+ Products]'](https://www.kaggle.com/datasets/oleksiimartusiuk/e-commerce-data-shein)
+- [Dirty E-Commerce Data [80,000+ Products]](https://www.kaggle.com/datasets/oleksiimartusiuk/e-commerce-data-shein)
 
 ### 🔧 What’s Cleaned:
 | Step | Description |
